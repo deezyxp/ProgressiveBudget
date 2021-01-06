@@ -22,7 +22,7 @@ https://budgettrackerdz.herokuapp.com/
 
 ## Screenshots
 
-![Front Page](./screenshots/fitnesstracker.png "frontpage")
+![Front Page](screenshots/budget.PNG "frontpage")
 
 ## Contact
 
