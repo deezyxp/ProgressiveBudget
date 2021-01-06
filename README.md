@@ -18,7 +18,7 @@ This application allows travellers or users to track their budget without the ne
 
 ## Deployed Link
 
-https://workouttrackerdz.herokuapp.com/
+https://budgettrackerdz.herokuapp.com/
 
 ## Screenshots
 
